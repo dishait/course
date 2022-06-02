@@ -1,5 +1,13 @@
 # [Vue3+Vite实战商城后台交流](https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0)
 
+<br />
+
+## 课程链接
+
+👉 [网易云课堂 - Vue3+Vite实战商城后台交流](https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0)
+
+<br />
+
 ## 适用人群
 具有 `Html+Css+JavaScript` 基础，有一定的 `Vue.js` 基础，挑战高薪职位
 
