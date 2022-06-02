@@ -2,6 +2,10 @@
 
 <br />
 
+<a href="https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0" target="_blank">
+    <img src="static/1.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
+</a>
+
 ## 课程链接
 
 👉 [网易云课堂 - Vue3实战商城后台管理系统开发](https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0)
@@ -19,11 +23,16 @@
 
 本季度基于 `Vue3 + ElementPlus + Vite` 实战开发商城后台管理系统，其中包括 `Vite` 的使用，`Vue3` 全新的 `<script setup>` 语法，`vuex4`、`Vue-router4`、使用`ElementPlus` 库、多权限管理、商品多规格实现、订单发货、导出订单、图库模块、分销模块、分享海报以及部署服务器上线知识等。
 
+
+<br />
+
 ### 课程演示
 
 课程演示地址：[http://shopadmin.dishawang.com](http://shopadmin.dishawang.com)  
 
 账号：`admin`  密码：`admin`
+
+<br />
 
 ### 常见问题
 
