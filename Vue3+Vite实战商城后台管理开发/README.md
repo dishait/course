@@ -1,10 +1,10 @@
-# [Vue3+Vite实战商城后台交流](https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0)
+# [Vue3实战商城后台管理系统开发](https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0)
 
 <br />
 
 ## 课程链接
 
-👉 [网易云课堂 - Vue3+Vite实战商城后台交流](https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0)
+👉 [网易云课堂 - Vue3实战商城后台管理系统开发](https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0)
 
 <br />
 
@@ -19,11 +19,12 @@
 
 本季度基于 `Vue3 + ElementPlus + Vite` 实战开发商城后台管理系统，其中包括 `Vite` 的使用，`Vue3` 全新的 `<script setup>` 语法，`vuex4`、`Vue-router4`、使用`ElementPlus` 库、多权限管理、商品多规格实现、订单发货、导出订单、图库模块、分销模块、分享海报以及部署服务器上线知识等。
 
-###【课程演示】
-课程演示地址：`http://shopadmin.dishawang.com`
+### 课程演示
+课程演示地址：`http://shopadmin.dishawang.com`  
+
 账号：`admin`  密码：`admin`
 
-###【常见问题】
+### 常见问题
 
 问题1：老师，这门课有涉及 Typescript 吗？
 回答：靓仔，这门课没有加ts哦，主要是考虑到小白，打算下一门vue3的实战新课再加入
@@ -34,8 +35,13 @@
 问题3：在哪里下载课程呢？有交流群吗？
 回答：为了方便下载课件和交流，创立了一个群：`530105610`，靓仔靓女们自己申请进入哦~
 
-![1.png](static/1.png)
-![2.png](static/2.png)
-![3.png](static/3.png)
-![4.png](static/4.png)
-![5.png](static/5.png)
+<img src="static/1.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0"/>
+
+<img src="static/2.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
+
+<img src="static/3.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
+
+<img src="static/4.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
+
+<img src="static/5.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
+
