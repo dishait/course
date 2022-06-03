@@ -3,7 +3,7 @@
 <br />
 
 <a href="https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0" target="_blank">
-    <img src="static/1.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
+    <img src="https://study-image.nosdn.127.net/48882f1678b84c17976f3cc059fc138b.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
 </a>
 
 ## 课程链接
@@ -48,13 +48,13 @@
 
 回答：为了方便下载课件和交流，创立了一个群：`530105610`，靓仔靓女们自己申请进入哦~
 
-<img src="static/1.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left"/>
+<img src="https://study-image.nosdn.127.net/48882f1678b84c17976f3cc059fc138b.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left"/>
 
-<img src="static/2.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left" />
+<img src="https://study-image.nosdn.127.net/75125ff9351e4541a3f9fba982e36ec3.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left" />
 
-<img src="static/3.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left"/>
+<img src="https://study-image.nosdn.127.net/a11b9efce8914527947a7e9a03e4ed43.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left"/>
 
-<img src="static/4.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left"/>
+<img src="https://study-image.nosdn.127.net/83b8f11a93a74f55aa06e5142ad35bd9.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left"/>
 
-<img src="static/5.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
+<img src="https://study-image.nosdn.127.net/2f826cef7a72495292d544d68c7ad586.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
 
