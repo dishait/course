@@ -1,14 +1,14 @@
-# [Vue3实战商城后台管理系统开发](https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0)
+# [Vue3实战商城后台管理系统开发](https://study.163.com/course/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585)
 
 <br />
 
-<a href="https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0" target="_blank">
+<a href="https://study.163.com/course/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585" target="_blank">
     <img src="https://study-image.nosdn.127.net/48882f1678b84c17976f3cc059fc138b.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
 </a>
 
 ## 课程链接
 
-👉 [网易云课堂 - Vue3实战商城后台管理系统开发](https://study.163.com/course/introduction.htm?courseId=1212775807&_trace_c_p_k2_=189b67f8216d4067bf762ba00b82cdb0)
+👉 [网易云课堂 - Vue3实战商城后台管理系统开发](https://study.163.com/course/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585)
 
 <br />
 
@@ -47,7 +47,7 @@
 问题3：在哪里下载课程呢？有交流群吗？  
 
 回答：为了方便下载课件和交流，创立了一个群：`530105610`，靓仔靓女们自己申请进入哦~
-
+<a href="https://study.163.com/course/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585" target="_blank">
 <img src="https://study-image.nosdn.127.net/48882f1678b84c17976f3cc059fc138b.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left"/>
 
 <img src="https://study-image.nosdn.127.net/75125ff9351e4541a3f9fba982e36ec3.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left" />
@@ -57,4 +57,4 @@
 <img src="https://study-image.nosdn.127.net/83b8f11a93a74f55aa06e5142ad35bd9.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" align="left"/>
 
 <img src="https://study-image.nosdn.127.net/2f826cef7a72495292d544d68c7ad586.png"  alt="Vue3实战商城后台管理系统开发" width="100%" height="100%" margin="0" padding="0" />
-
+</a>
